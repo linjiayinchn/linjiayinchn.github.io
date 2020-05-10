@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://cavok94.github.io</id>
+    <id>https://linjiayin.github.io</id>
     <title>Gridea</title>
-    <updated>2020-05-10T06:48:14.336Z</updated>
+    <updated>2020-05-10T07:02:08.679Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://cavok94.github.io"/>
-    <link rel="self" href="https://cavok94.github.io/atom.xml"/>
+    <link rel="alternate" href="https://linjiayin.github.io"/>
+    <link rel="self" href="https://linjiayin.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://cavok94.github.io/images/avatar.png</logo>
-    <icon>https://cavok94.github.io/favicon.ico</icon>
+    <logo>https://linjiayin.github.io/images/avatar.png</logo>
+    <icon>https://linjiayin.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://cavok94.github.io/post/hello-gridea/</id>
-        <link href="https://cavok94.github.io/post/hello-gridea/">
+        <id>https://linjiayin.github.io/post/hello-gridea/</id>
+        <link href="https://linjiayin.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
